@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: fct_revenue
+    columns:
+      - name: product_id
+        tests:
+          - not_null
+
+      - name: revenue
+        tests:
+          - not_null
+
+      - name: order_count
+        tests:
+          - not_null
