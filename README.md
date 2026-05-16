@@ -191,19 +191,15 @@ Visualizations include:
 
 ---
 
-# Dashboard Screenshots
+# Screenshots
 
-## dbt Incremental Processing
+## dbt Incremental Load
 
-```text id="jlwm9i"
-images/5_1.png
-```
+![dbt Incremental](images/5_1.png)
 
 ## Power BI Dashboard
 
-```text id="jlwmng"
-images/5_2.png
-```
+![Power BI Dashboard](images/5_2.png)
 
 
 ---
